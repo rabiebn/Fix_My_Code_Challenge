@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Module"""
+
 
 class square():
     """ Class Square """
